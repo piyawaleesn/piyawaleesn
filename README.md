@@ -1,4 +1,4 @@
-<div id "header" align="center"> "Hi there 👋 </div>
+<div id="header" style="font-size: 24px; font-weight: bold; color: blue; text-align: center;">Hi 👋 My name is Piyawalee Srisuwan</div>
 
 <!--
 **piyawaleesn/piyawaleesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
