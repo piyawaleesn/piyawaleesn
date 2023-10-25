@@ -1,6 +1,6 @@
 Hi 👋 My name is Piyawalee Srisuwan
 ===================================
-* 🌱  I’m currently learning TypeScript & Next.js
+* 🌱  I’m currently learning <h1>TypeScript & Next.js</h1>
 * ✉️  You can contact me at [Piayawaleenm@gmail.com](mailto:Piayawaleenm@gmail.com)
 
 ### Skills
